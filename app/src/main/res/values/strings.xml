@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SETransition</string>
+    <string name="transition_name">name%1$d:%2$d</string>
+</resources>
